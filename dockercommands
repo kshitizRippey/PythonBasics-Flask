@@ -1,0 +1,2 @@
+docker build -t "pythonbasics-fastapi" .
+docker run -p 8000:8000 "pythonbasics-fastapi"
