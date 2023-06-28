@@ -1,2 +1,2 @@
-docker build -t "pythonbasics-fastapi" .
-docker run -p 8000:8000 "pythonbasics-fastapi"
+docker build -t "pythonbasics-flask" .
+docker run -p 5000:5000 "pythonbasics-flask"
